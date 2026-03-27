@@ -1,0 +1,33 @@
+2026-03-13 10:05:44 | Server started on 0.0.0.0:8443
+2026-03-13 10:14:43 | New connection from 127.0.0.1:1156
+2026-03-13 10:15:20 | AUTH SUCCESS for user 'admin' from 127.0.0.1
+2026-03-13 10:15:31 | User 'admin' from 127.0.0.1 executed: dir
+2026-03-13 10:15:56 | User 'admin' from 127.0.0.1 executed: whoami
+2026-03-13 10:16:06 | User 'admin' from 127.0.0.1 sent EXIT
+2026-03-13 10:16:06 | Connection closed for 127.0.0.1
+2026-03-13 10:45:36 | Server started on 0.0.0.0:8443
+2026-03-13 10:46:07 | New connection from 127.0.0.1:4367
+2026-03-13 10:46:13 | AUTH SUCCESS for user 'admin' from 127.0.0.1
+2026-03-13 10:46:19 | User 'admin' from 127.0.0.1 executed: whoami
+2026-03-13 10:46:22 | User 'admin' from 127.0.0.1 executed: dir
+2026-03-13 10:46:25 | User 'admin' from 127.0.0.1 sent EXIT
+2026-03-13 10:46:25 | Connection closed for 127.0.0.1
+2026-03-13 10:55:47 | Server started on 0.0.0.0:8443
+2026-03-13 11:05:28 | Server started on 0.0.0.0:8443
+2026-03-13 11:05:31 | New connection from 10.118.11.86:56366
+2026-03-13 11:05:39 | AUTH SUCCESS for user 'admin' from 10.118.11.86
+2026-03-13 11:05:42 | User 'admin' from 10.118.11.86 executed: whoami
+2026-03-13 11:05:44 | User 'admin' from 10.118.11.86 executed: dir
+2026-03-13 11:05:49 | User 'admin' from 10.118.11.86 sent EXIT
+2026-03-13 11:05:49 | Connection closed for 10.118.11.86
+2026-03-13 15:25:36 | Server started on 0.0.0.0:8443
+2026-03-13 15:28:44 | New connection from 10.118.11.86:52195
+2026-03-13 15:29:01 | AUTH SUCCESS for user 'admin' from 10.118.11.86
+2026-03-13 15:29:43 | User 'admin' from 10.118.11.86 executed: dir
+2026-03-13 15:30:11 | User 'admin' from 10.118.11.86 executed: whoami
+2026-03-13 15:30:42 | User 'admin' from 10.118.11.86 executed: dir
+2026-03-13 15:30:53 | User 'admin' from 10.118.11.86 sent EXIT
+2026-03-13 15:30:53 | Connection closed for 10.118.11.86
+2026-03-13 15:35:17 | New connection from 10.118.11.86:64655
+2026-03-13 15:36:11 | Connection error with 10.118.11.86: EOF occurred in violation of protocol (_ssl.c:2417)
+2026-03-13 15:36:11 | Connection closed for 10.118.11.86
